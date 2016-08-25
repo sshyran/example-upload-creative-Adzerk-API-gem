@@ -9,8 +9,7 @@ This is an example of uploading a new image to an existing creative using the [A
 ## Running
 
 You'll need to install [Ruby](https://www.ruby-lang.org/en/documentation/installation/) 
-2.0 or higher for your platform if you don't already have it.  This proj
-ect has been tested with Ruby 2.3.1.
+2.0 or higher for your platform if you don't already have it.  This project has been tested with Ruby 2.3.1.
 
 Once you have Ruby, you'll need to install [bundler](https://bundler.io) with `gem i bundler` or similar.
 
